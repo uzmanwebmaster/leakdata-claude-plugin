@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "leakdata": {
+      "type": "http",
+      "url": "https://leakdata.io/mcp"
+    }
+  }
+}

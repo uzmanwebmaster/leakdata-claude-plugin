@@ -1,0 +1,14 @@
+{
+  "name": "leakdata-breach-response",
+  "displayName": "LeakData Breach Response",
+  "version": "1.4.0",
+  "description": "Understand data breaches and your next steps. Look up public breaches, check your linked account's verified email, review monitoring results, and work through your action plan. Save progress only when you confirm a step is done.",
+  "author": {
+    "name": "CyberVisir Solutions Ltd",
+    "url": "https://leakdata.io"
+  },
+  "homepage": "https://leakdata.io/integrations/claude",
+  "repository": "https://github.com/uzmanwebmaster/leakdata-claude-plugin",
+  "license": "MIT",
+  "keywords": ["leakdata", "data-breaches", "account-security", "breach-response"]
+}
