@@ -94,7 +94,7 @@ connector.
 
 ## Publisher and support
 
-Published by **CyberVisir Solutions Ltd**, the operator of LeakData.io.
+Published by **LeakData.io**, operated by CyberVisir Solutions Ltd.
 
 - [Website](https://leakdata.io)
 - [Claude integration](https://leakdata.io/integrations/claude)
